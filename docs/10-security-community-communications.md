@@ -295,5 +295,7 @@ nothing. **Print what matters.**
 
 ---
 
+**🔨 Build it:** [All build plans](../builds/README.md) — including the generator noise screen and rodent-proof storage
+
 **Previous:** [09 — Apartment playbook](09-apartment-playbook.md) ·
 **Next:** [11 — Tools, spares, money & documents](11-tools-spares-money-documents.md)

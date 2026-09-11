@@ -368,5 +368,7 @@ allotment — as a fallback and a source of bulk vegetables, eggs and firewood
 
 ---
 
+**🔨 Build it:** [Apartment builds](../builds/08-apartment-builds.md) — sprouting rack · microgreen shelf · mushroom bucket · wormery · self-watering containers · potato sacks · balcony rain catch · air cleaner · under-bed storage
+
 **Previous:** [08 — Animals & protein](08-animals-and-protein.md) ·
 **Next:** [10 — Security, community & communications](10-security-community-communications.md)

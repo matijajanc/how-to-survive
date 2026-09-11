@@ -340,5 +340,7 @@ wasteful; doing it well is quick, calm and respectful.
 
 ---
 
+**🔨 Build it:** [Animal builds](../builds/07-animal-builds.md) — **the full chicken coop plan** · predator-proof run · chicken tractor · no-waste feeder & drinkers · rabbit hutch · quail cage · black soldier fly bucket · fodder rack · rodent-proof feed store
+
 **Previous:** [07 — Land & garden](07-land-and-garden.md) ·
 **Next:** [09 — Apartment playbook](09-apartment-playbook.md)

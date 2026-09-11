@@ -425,5 +425,7 @@ In a shortage this is free water for flushing and the garden.
 
 ---
 
+**🔨 Build it:** [Water builds](../builds/01-water-builds.md) — bucket gravity filter · tippy-tap · first-flush diverter · IBC stand & manifold · slow sand filter · solar water heater · ollas & drip
+
 **Previous:** [00 — Planning framework](00-planning-framework.md) ·
 **Next:** [02 — Electricity](02-electricity.md)

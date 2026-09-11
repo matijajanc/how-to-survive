@@ -358,5 +358,7 @@ and break families. This is not a soft topic; it is the reason plans fail.
 
 ---
 
+**🔨 Build it:** [Corsi–Rosenthal air cleaner](../builds/08-apartment-builds.md#9-corsirosenthal-air-cleaner-box) — a €60 box fan and four filters that outperforms most commercial purifiers
+
 **Previous:** [05 — Sanitation & hygiene](05-sanitation-hygiene.md) ·
 **Next:** [07 — Land & garden](07-land-and-garden.md)

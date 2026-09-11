@@ -260,5 +260,7 @@ your ordinary life better as well.
 
 ---
 
+**🔨 Build it:** [All build plans](../builds/README.md) — the tool kit, timber sizes, fixings and mesh guide are in the build index
+
 **Previous:** [10 — Security, community & communications](10-security-community-communications.md) ·
 **Next:** [12 — Operating cycles & calendar](12-operating-cycles-and-calendar.md)

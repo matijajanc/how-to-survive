@@ -418,4 +418,6 @@ This is usually the biggest single reason to have power at all.
 
 ---
 
+**🔨 Build it:** [Power builds](../builds/02-power-builds.md) — the complete 12 V solar system with cable sizing and fusing · DC lighting circuit · insulated battery box · adjustable tilt frame · generator noise screen
+
 **Previous:** [01 — Water](01-water.md) · **Next:** [03 — Food storage](03-food-storage.md)

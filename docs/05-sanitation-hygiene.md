@@ -338,5 +338,7 @@ solutions lose strength within ~24 hours):
 
 ---
 
+**🔨 Build it:** [Sanitation builds](../builds/04-sanitation-builds.md) — bucket toilet · urine diverter · humanure compost bays · handwash station · plunger washing machine · greywater mulch basin
+
 **Previous:** [04 — Heating, cooking & fuel](04-heating-cooking-fuel.md) ·
 **Next:** [06 — Health & pandemic protocol](06-health-and-pandemic-protocol.md)

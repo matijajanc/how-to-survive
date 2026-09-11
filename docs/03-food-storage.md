@@ -412,5 +412,7 @@ Space is the constraint. **~1 m³ per person-year** of staples if densely packed
 
 ---
 
+**🔨 Build it:** [Food storage builds](../builds/05-food-storage-builds.md) — root cellar · buried barrel cellar · root clamp · cool pantry · mylar packing station · cold smoker · curing racks
+
 **Previous:** [02 — Electricity](02-electricity.md) ·
 **Next:** [04 — Heating, cooking & fuel](04-heating-cooking-fuel.md)

@@ -428,5 +428,7 @@ Don't try to do everything. Do this:
 
 ---
 
+**🔨 Build it:** [Garden builds](../builds/06-garden-builds.md) — no-dig beds · three-bay compost · insect mesh cage · cold frame · low tunnel · walk-in polytunnel · seed-starting rack · liquid feed barrel · leaf mould cage
+
 **Previous:** [06 — Health & pandemic protocol](06-health-and-pandemic-protocol.md) ·
 **Next:** [08 — Animals & protein](08-animals-and-protein.md)

@@ -133,7 +133,12 @@ buy at each level, in purchase order, with quantities for your household size.
 [`worksheets/drill-log.md`](worksheets/drill-log.md) — the blackout weekend, the
 water-off day, the isolation drill. Untested preparation is a guess.
 
-**Step 6 — Run the cycles.**
+**Step 6 — Build what you need.**
+[`builds/`](builds/README.md) — construction plans with dimensions, cut lists,
+materials and costs, ordered so the highest-value builds come first. A bucket
+water filter takes 30 minutes; the chicken coop takes a weekend.
+
+**Step 7 — Run the cycles.**
 [`docs/12-operating-cycles-and-calendar.md`](docs/12-operating-cycles-and-calendar.md)
 — the daily, weekly, monthly and seasonal routines that keep stock rotated,
 gardens producing, and animals breeding. This is the part that turns a stockpile
@@ -165,6 +170,17 @@ into a system.
 - **[10 — Security, community & communications](docs/10-security-community-communications.md)** — OPSEC, layered security, the mutual-aid group, the charity plan, radios, offline information, family contact plan.
 - **[11 — Tools, spares, money & documents](docs/11-tools-spares-money-documents.md)** — hand tools, the spares kit, single points of failure, cash, barter goods, the document pack, skills to learn.
 - **[12 — Operating cycles & calendar](docs/12-operating-cycles-and-calendar.md)** — daily/weekly/monthly/seasonal/annual routines, the garden year month by month, the livestock year, the rotation and maintenance schedule.
+
+### Build plans 🔨
+- **[Build index](builds/README.md)** — every build in priority order, with time, cost and skill level; plus the tool kit, timber sizes, fixings, mesh and safety fundamentals.
+- **[01 — Water builds](builds/01-water-builds.md)** — bucket gravity filter, tippy-tap, first-flush diverter, IBC stand and manifold, slow sand filter, solar water heater, ollas and drip.
+- **[02 — Power builds](builds/02-power-builds.md)** — the complete 12 V solar system with cable-sizing and fusing tables, DC lighting circuit, insulated battery box, adjustable tilt frame, generator noise screen.
+- **[03 — Cooking & heat builds](builds/03-cooking-heat-builds.md)** — rocket stoves, haybox/thermal cooker, solar oven, solar dehydrator, wood store, warm-room tent.
+- **[04 — Sanitation builds](builds/04-sanitation-builds.md)** — bucket toilet, urine diverter, humanure compost bays, handwash station, plunger washing machine, greywater mulch basin.
+- **[05 — Food storage builds](builds/05-food-storage-builds.md)** — root cellar, buried barrel cellar, root clamp, cool pantry, mylar packing station, cold smoker, curing racks.
+- **[06 — Garden builds](builds/06-garden-builds.md)** — no-dig beds, three-bay compost, insect mesh cage, cold frame, low tunnel, walk-in polytunnel, seed rack, liquid feed barrel.
+- **[07 — Animal builds](builds/07-animal-builds.md)** — **the full chicken coop plan**, predator-proof run, chicken tractor, feeders and drinkers, rabbit hutch, quail cage, black soldier fly bucket, fodder rack.
+- **[08 — Apartment builds](builds/08-apartment-builds.md)** — sprouting rack, microgreen shelf, mushroom bucket, wormery, self-watering containers, balcony rain catch, air cleaner, under-bed storage.
 
 ### Worksheets
 - **[Household audit](worksheets/household-audit.md)** — fill this in first.

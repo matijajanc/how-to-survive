@@ -341,4 +341,6 @@ If you remember nothing else:
 
 ---
 
+**🔨 Build it:** [All build plans](../builds/README.md) — construction plans for everything in this plan, in priority order
+
 **Next:** [01 — Water](01-water.md) — the first thing that kills you.

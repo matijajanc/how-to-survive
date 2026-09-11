@@ -317,5 +317,7 @@ that stop you realising you need to act.
 
 ---
 
+**🔨 Build it:** [Cooking & heat builds](../builds/03-cooking-heat-builds.md) — rocket stoves · haybox/thermal cooker · solar oven · solar dehydrator · wood store · warm-room tent
+
 **Previous:** [03 — Food storage](03-food-storage.md) ·
 **Next:** [05 — Sanitation & hygiene](05-sanitation-hygiene.md)
