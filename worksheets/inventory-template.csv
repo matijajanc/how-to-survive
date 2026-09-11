@@ -1,0 +1,49 @@
+category,item,variety_or_spec,quantity,unit,kcal_per_unit,location,container,date_acquired,review_by,rotation_action,notes
+WATER,Stored water,Mains-filled + 2 drops bleach/L,400,L,0,Cellar,2x 200 L barrel,2026-03-01,2026-09-01,Empty and refill,Dated on lid; siphon pump on shelf above
+WATER,Jerry cans,Food-grade HDPE 20 L,120,L,0,Garage,6x 20 L,2026-03-01,2026-09-01,Empty and refill,Portable; keep 2 by the door
+WATER,NaDCC tablets,Aquatabs 20 L dose,50,tab,0,Kitchen store,Sealed tin,2026-01-15,2031-01-15,Replace,Treats 1000 L
+WATER,Filter elements,Ceramic gravity spare pair,2,pcs,0,Kitchen store,Original boxes,2025-11-01,2027-11-01,Replace,Fits the worktop gravity filter
+WATER,Calcium hypochlorite,65-70% no additives,500,g,0,Shed,Sealed HDPE,2026-02-01,2029-02-01,Check dry,STORE AWAY FROM HOUSE - strong oxidiser
+FOOD-GRAIN,Wheat berries,Hard red winter,100,kg,3400,Cellar,5x 20 L bucket + mylar + O2,2026-02-10,2051-02-10,None,Frozen 72 h before packing
+FOOD-GRAIN,White rice,Long grain,60,kg,3600,Cellar,3x 20 L bucket + mylar + O2,2026-02-10,2051-02-10,None,
+FOOD-GRAIN,Rolled oats,,30,kg,3800,Cellar,2x bucket + mylar + O2,2026-02-10,2046-02-10,None,
+FOOD-GRAIN,Pasta,Durum,30,kg,3600,Under stairs,Original + mylar,2026-04-01,2031-04-01,FIFO,Layer A - eaten weekly
+FOOD-LEGUME,Dry beans,Borlotti / white,20,kg,3400,Cellar,Bucket + mylar + O2,2026-02-10,2051-02-10,None,Pressure cook - they harden with age
+FOOD-LEGUME,Lentils,Green/brown,15,kg,3500,Cellar,Bucket + mylar + O2,2026-02-10,2051-02-10,None,Also sproutable
+FOOD-FAT,Olive oil,Extra virgin in tins,10,L,8800,Cool cupboard,5x 2 L tin,2026-05-01,2028-05-01,FIFO - USE,SHORT LIFE - highest rotation priority
+FOOD-FAT,Sunflower oil,,8,L,8800,Cool cupboard,Dark bottles,2026-05-01,2027-11-01,FIFO - USE,Rancidity risk
+FOOD-SUGAR,Sugar,White granulated,20,kg,4000,Cellar,Bucket,2026-02-10,2051-02-10,None,Indefinite if dry
+FOOD-SUGAR,Honey,Local raw,5,kg,3040,Pantry,Glass jars,2026-08-01,,None,Never expires
+FOOD-SALT,Salt,Coarse pickling + table,16,kg,0,Cellar,Sealed tubs,2026-02-10,,None,Essential for preserving - buy more
+FOOD-DAIRY,Milk powder,Whole,8,kg,4900,Cellar,Mylar + O2,2026-02-10,2036-02-10,None,
+FOOD-PROTEIN,Tinned sardines,In oil,60,tin,250,Pantry shelf,Original,2026-03-01,2031-03-01,FIFO,Omega-3 + vitamin D
+FOOD-VEG,Tinned tomatoes,,40,tin,80,Pantry shelf,Original,2026-03-01,2028-03-01,FIFO,High acid - rotate on printed date
+FOOD-SEED,Sprouting seed,Mung/lentil/alfalfa/radish mix,10,kg,3400,Kitchen,Glass jars sealed,2026-01-20,2030-01-20,Germination test,CRITICAL - vitamin C source
+FOOD-COMFORT,Coffee,Green unroasted beans,10,kg,0,Cellar,Mylar,2026-02-10,2031-02-10,None,Green beans keep 5+ yr; roast in a pan
+FOOD-COMFORT,Spices and bouillon,Assorted,3,kg,0,Kitchen,Jars,2026-03-01,2029-03-01,FIFO,Morale layer - do not skip
+FUEL,Firewood - burning this winter,Beech seasoned 2024,4,m3,0,Wood store,Stacked covered,2024-10-01,2026-11-01,Burn,Measured at 17% moisture
+FUEL,Firewood - next winter,Oak split 2026,4,m3,0,Wood store,Stacked open sides,2026-03-01,2027-11-01,Season,Needs 18-24 months
+FUEL,Propane,11 kg cylinders,4,cyl,0,Outside store,Upright cylinders,2026-04-01,,None,Indefinite shelf life
+FUEL,Petrol,Stabilised E5,40,L,0,Outside store,2x 20 L approved can,2026-05-01,2026-11-01,Rotate into car,Stabiliser added at fill
+POWER,LiFePO4 battery,48 V 100 Ah,5.1,kWh,0,Utility room,Rack,2026-01-10,2036-01-10,Health check annually,Keep above 5 C
+POWER,MPPT controller,100 A - SPARE,1,pcs,0,Workshop,Sealed box,2026-01-10,,None,Most likely failure point
+POWER,Fuses and MC4 connectors,Assorted,1,set,0,Workshop,Spares box,2026-01-10,,None,
+SANITATION,Cover material,Coconut coir bricks,10,brick,0,Utility room,Shrink wrap,2026-09-01,,Top up each autumn,1 brick = approx 70 L
+SANITATION,Soap,Bar soap,50,bar,0,Bathroom store,Boxed,2026-03-01,,None,Improves with age; barter good
+SANITATION,Bleach,5% unscented,10,L,0,Utility room,Original bottles,2026-02-01,2027-02-01,Replace,Loses 20%/yr - date it
+SANITATION,Toilet paper,,150,roll,0,Loft,Original packs,2026-03-01,,FIFO,Bidet bottles cut usage 80%
+MEDICAL,Prescription - see audit,[per person],90,days,0,Bedroom,Original boxes,rolling,monthly,Use oldest first,CHECK MONTHLY
+MEDICAL,ORS sachets,,40,sachet,0,Medical box,Original,2026-01-15,2029-01-15,Replace,Highest-value item in the kit
+MEDICAL,FFP3 respirators,Fit-tested,100,pcs,0,Medical box,Sealed,2026-01-15,2031-01-15,Check seal,Fit tested on both adults
+MEDICAL,Paracetamol,500 mg,200,tab,0,Medical box,Original,2026-01-15,2029-01-15,FIFO,
+MEDICAL,Vitamin C + D + multivitamin,12 months x 4 people,1,set,0,Medical box,Original,2026-01-15,2028-01-15,Replace,
+SEED,Seed bank,Open-pollinated - see seed list,1,box,0,Cellar,Jar + silica gel,2026-01-05,2027-01-05,Germination test,Cold and dry; test 10 seeds/variety
+SEED,Seed potatoes,Sarpo Mira - blight resistant,10,kg,0,Cellar,Chitting trays,2026-02-01,2026-04-15,Plant,Refresh certified stock every 3-4 yr
+ANIMAL,Layer feed,16% protein,400,kg,0,Barn,Metal bins,2026-10-01,2027-04-01,MUST LAST TO MARCH,Audit in November - cull if short
+ANIMAL,Oyster shell + grit,,50,kg,0,Barn,Sacks,2026-10-01,,None,Indefinite; buy years of it
+ANIMAL,Mangel-wurzel,Winter fodder,300,kg,0,Clamp,Straw clamp,2026-10-15,2027-03-01,Feed out,Grown on 100 m2
+TOOL,Hand grain mill,Steel burr,1,pcs,0,Kitchen,-,2026-01-20,,Service annually,TESTED - works
+TOOL,Pressure canner,23 L,1,pcs,0,Cellar,-,2026-03-01,,Gasket check annually,Spare gasket + safety plug held
+TOOL,Can opener,Manual,3,pcs,0,Kitchen,-,2026-01-10,,None,Classic single point of failure
+CASH,Cash reserve,Small denominations,0,EUR,0,Split 2 locations,-,2026-01-01,,Review annually,4-8 weeks of essentials
+DOCS,Document pack,Paper + encrypted USB + offsite,1,set,0,Hall cupboard,Waterproof folder,2026-01-05,2027-01-05,Annual review,Offsite copy with relative
