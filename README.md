@@ -9,6 +9,12 @@ Two tracks run through every chapter:
 - **🏡 LAND** — you have a house with a garden, yard, field or orchard.
 - **🏢 APARTMENT** — you have a flat, a balcony at best, and shared infrastructure.
 
+> **📴 Works offline.** The entire plan is also built into a single
+> self-contained file — [`offline/survival-plan.html`](offline/survival-plan.html)
+> — that needs no internet, no server and nothing installed. Copy it to a phone,
+> a USB stick and an e-reader, and **print it**. Rebuild it any time with
+> `make offline` (Python standard library only).
+
 Units are metric. Prices are indicative EUR. The garden calendar is written for
 **temperate continental Central Europe** (Slovenia/Austria/N. Italy/Croatia —
 last frost mid-April to mid-May, first frost mid-October). Adjust dates to your
@@ -138,7 +144,13 @@ water-off day, the isolation drill. Untested preparation is a guess.
 materials and costs, ordered so the highest-value builds come first. A bucket
 water filter takes 30 minutes; the chicken coop takes a weekend.
 
-**Step 7 — Run the cycles.**
+**Step 7 — Make it work offline.**
+[`offline/survival-plan.html`](offline/survival-plan.html) is the whole plan in
+one self-contained file — no internet, no server, no apps. Open it in any
+browser, or print it. A plan you cannot reach in a blackout is not a plan; see
+[Chapter 13](docs/13-offline-and-paper.md).
+
+**Step 8 — Run the cycles.**
 [`docs/12-operating-cycles-and-calendar.md`](docs/12-operating-cycles-and-calendar.md)
 — the daily, weekly, monthly and seasonal routines that keep stock rotated,
 gardens producing, and animals breeding. This is the part that turns a stockpile
@@ -171,6 +183,9 @@ into a system.
 - **[11 — Tools, spares, money & documents](docs/11-tools-spares-money-documents.md)** — hand tools, the spares kit, single points of failure, cash, barter goods, the document pack, skills to learn.
 - **[12 — Operating cycles & calendar](docs/12-operating-cycles-and-calendar.md)** — daily/weekly/monthly/seasonal/annual routines, the garden year month by month, the livestock year, the rotation and maintenance schedule.
 
+### Offline & paper
+- **[13 — Offline, paper & keeping the plan readable](docs/13-offline-and-paper.md)** — what to print and in what order, the three-copies rule, devices that work when power is uncertain, media longevity, the offline reference library to download before you need it, keeping it findable by someone other than you.
+
 ### Build plans 🔨
 - **[Build index](builds/README.md)** — every build in priority order, with time, cost and skill level; plus the tool kit, timber sizes, fixings, mesh and safety fundamentals.
 - **[01 — Water builds](builds/01-water-builds.md)** — bucket gravity filter, tippy-tap, first-flush diverter, IBC stand and manifold, slow sand filter, solar water heater, ollas and drip.
@@ -183,7 +198,8 @@ into a system.
 - **[08 — Apartment builds](builds/08-apartment-builds.md)** — sprouting rack, microgreen shelf, mushroom bucket, wormery, self-watering containers, balcony rain catch, air cleaner, under-bed storage.
 
 ### Worksheets
-- **[Household audit](worksheets/household-audit.md)** — fill this in first.
+- **[Quick-reference cards](worksheets/quick-reference-cards.md)** — ⭐ **print these first.** The numbers you need at 3 a.m. by torchlight: water treatment doses, oral rehydration, bleach dilutions, carbon monoxide, when to seek help, the trigger ladder, the daily routine, your shut-offs and contacts.
+- **[Household audit](worksheets/household-audit.md)** — fill this in second.
 - **[Shopping lists](worksheets/shopping-lists.md)** — tiered, in buy-order, with quantities.
 - **[Drill log](worksheets/drill-log.md)** — the tests that prove it works.
 - **[Inventory template](worksheets/inventory-template.csv)** — what you have, where, expiry.

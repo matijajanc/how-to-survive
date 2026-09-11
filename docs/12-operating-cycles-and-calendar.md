@@ -244,4 +244,4 @@ properly. It takes an afternoon.
 **🔨 Build it:** [All build plans](../builds/README.md) — construction plans for everything in this plan, in priority order
 
 **Previous:** [11 — Tools, spares, money & documents](11-tools-spares-money-documents.md) ·
-**Back to:** [README](../README.md)
+**Next:** [13 — Offline, paper & keeping the plan readable](13-offline-and-paper.md)
